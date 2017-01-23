@@ -14,3 +14,7 @@ int mult(int x, int y){
 	int z;
 	x*y = z;
 }
+int div(int x, int y){
+	int z;
+	x/y = z;
+}
